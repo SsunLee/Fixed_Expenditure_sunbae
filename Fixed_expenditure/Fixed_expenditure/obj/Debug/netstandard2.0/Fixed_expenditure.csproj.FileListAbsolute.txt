@@ -1,0 +1,14 @@
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\bin\Debug\netstandard2.0\Fixed_expenditure.deps.json
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\bin\Debug\netstandard2.0\Fixed_expenditure.dll
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\bin\Debug\netstandard2.0\ref\Fixed_expenditure.dll
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\bin\Debug\netstandard2.0\Fixed_expenditure.pdb
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\Fixed_expenditure.csprojAssemblyReference.cache
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\Fixed_expenditure.AssemblyInfoInputs.cache
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\Fixed_expenditure.AssemblyInfo.cs
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\Fixed_expenditure.csproj.CoreCompileInputs.cache
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\Fixed_expenditure.dll
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\ref\Fixed_expenditure.dll
+C:\Users\ww\Source\Repos\NewRepo\Fixed_expenditure\Fixed_expenditure\obj\Debug\netstandard2.0\Fixed_expenditure.pdb
